@@ -23,7 +23,7 @@ $(".slider-two")
     
     prevArrow:".site-slider-two .prev",
     nextArrow:".site-slider-two .next",
-    slidesToShow:5,
+    slidesToShow:1,
     slidesToScroll:1,
     
     autoplay:true,
